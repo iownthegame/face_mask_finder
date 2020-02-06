@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/face_mask_finder/static/css/main.5a04d194.chunk.css",
+    "main.js": "/face_mask_finder/static/js/main.d3838a75.chunk.js",
+    "main.js.map": "/face_mask_finder/static/js/main.d3838a75.chunk.js.map",
+    "runtime-main.js": "/face_mask_finder/static/js/runtime-main.8285d143.js",
+    "runtime-main.js.map": "/face_mask_finder/static/js/runtime-main.8285d143.js.map",
+    "static/js/2.f35efde9.chunk.js": "/face_mask_finder/static/js/2.f35efde9.chunk.js",
+    "static/js/2.f35efde9.chunk.js.map": "/face_mask_finder/static/js/2.f35efde9.chunk.js.map",
+    "index.html": "/face_mask_finder/index.html",
+    "precache-manifest.befe7937ea9d849a99b876376329a424.js": "/face_mask_finder/precache-manifest.befe7937ea9d849a99b876376329a424.js",
+    "service-worker.js": "/face_mask_finder/service-worker.js",
+    "static/css/main.5a04d194.chunk.css.map": "/face_mask_finder/static/css/main.5a04d194.chunk.css.map",
+    "static/js/2.f35efde9.chunk.js.LICENSE.txt": "/face_mask_finder/static/js/2.f35efde9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8285d143.js",
+    "static/js/2.f35efde9.chunk.js",
+    "static/css/main.5a04d194.chunk.css",
+    "static/js/main.d3838a75.chunk.js"
+  ]
+}
