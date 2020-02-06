@@ -155,7 +155,7 @@ export class MapContainer extends Component {
                   name={'Your Position'}
                   position={{lat: pos.lat, lng: pos.lng}}
                   icon={{
-                    url: "/img/mask24.png"
+                    url: "img/mask24.png"
                   }}
                   onClick={this.onMarkerClick}
                 />
